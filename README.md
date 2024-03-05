@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## Currently studying CS at Kau 🦆
+### Currently studying CS at Kau 🦆
 <!--
 **pronoian/pronoian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
